@@ -1,1 +1,4 @@
-# mathematical-principles-of-the-philosophy-of-mind-zh-TW
+# 《精神哲學的數學原理》（繁體中文版）
+
+作者：程邦勝
+版權所有：程邦勝
